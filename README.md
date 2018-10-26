@@ -6,7 +6,7 @@ Quickly add `console.log` statements to your JavaScript code and include a rando
 
 In your Atom editor, open your JavaScript file and select the variable or function name to be logged:
 
-![Select some text](https://github.com/emilyb7/emoji-log-js/blob/master/assets/screen_1.png)
+![Select some text](https://raw.githubusercontent.com/emilyb7/emoji-log-js/master/assets/screen_1.png)
 
 
 Press `ctrl + alt + o` (default key binding)
