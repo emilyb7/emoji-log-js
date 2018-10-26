@@ -11,4 +11,4 @@ In your Atom editor, open your JavaScript file and select the variable or functi
 
 Press `ctrl + alt + o` (default key binding)
 
-![Result](https://github.com/emilyb7/emoji-log-js/blob/master/assets/screen_2.png)
+![Result](https://raw.githubusercontent.com/emilyb7/emoji-log-js/master/assets/screen_2.png)
