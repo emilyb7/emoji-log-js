@@ -1,7 +1,7 @@
 {
   "name": "emoji-log-js",
   "main": "./lib/emoji-log",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "Emoji-fuelled debugging for JavaScipt code",
   "keywords": [],
   "activationCommands": {
